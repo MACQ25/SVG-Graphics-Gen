@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="batik-1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../batik-1.16" />
+      <root url="file://$PROJECT_DIR$/../batik-1.16" />
+      <root url="file://$PROJECT_DIR$/../batik-1.16" />
+      <root url="file://$PROJECT_DIR$/../batik-1.16/extensions" />
+      <root url="file://$PROJECT_DIR$/../batik-1.16/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../batik-1.16/samples/tests/resources/java/sources" />
+      <root url="file://$PROJECT_DIR$/../batik-1.16/lib" />
+      <root url="file://$PROJECT_DIR$/../batik-1.16/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../batik-1.16" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../batik-1.16" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../batik-1.16" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../batik-1.16/extensions" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../batik-1.16/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../batik-1.16/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../batik-1.16/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
